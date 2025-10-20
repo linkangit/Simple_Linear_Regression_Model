@@ -1,6 +1,6 @@
 # Linear Regression in Python
 
-![](figure.png)
+![](LinReg.png)
 
 Linear regression is one of the most fundamental machine learning algorithms, used to model the relationship between a dependent variable and one or more independent variables. This tutorial will guide you through implementing linear regression in Python using both scikit-learn and statsmodels.
 
